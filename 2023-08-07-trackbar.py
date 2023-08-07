@@ -1,0 +1,3 @@
+
+#createTrackbar(Trackbarname,winname)
+#getTrackbarPos
